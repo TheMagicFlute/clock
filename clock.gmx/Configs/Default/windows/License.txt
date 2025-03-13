@@ -1,6 +1,5 @@
-This is a clock made by monkey
+a large clock shows current system time
 made by GameMaker: Studio 1.49999
-if you find an error, please close the main program and try again!
-you can find source code on github!
-source code link: https://github.com/system-code-github/clock/tree/main
-Installer link: https://github.com/system-code-github/clock/tree/Installer
+author: github@TheMagicFlute
+source link: https://github.com/TheMagicFlute/clock
+License: MIT License

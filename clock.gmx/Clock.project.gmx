@@ -6,15 +6,18 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites"/>
-  <backgrounds name="background">
-    <background>background\background0</background>
-  </backgrounds>
+  <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\get_current_YMD.gml</script>
+    <script>scripts\get_current_HMS.gml</script>
+  </scripts>
   <fonts name="fonts">
-    <font>fonts\fMain</font>
+    <font>fonts\fYMD</font>
+    <font>fonts\fHMS</font>
   </fonts>
   <objects name="objects">
-    <object>objects\objMain</object>
+    <object>objects\oMain</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rMain</room>
