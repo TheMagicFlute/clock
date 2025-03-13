@@ -8,7 +8,7 @@ repo: [github@TheMagicFlute/clock](https://github.com/TheMagicFlute/clock)
 
 download the **latest version** at [release](https://github.com/TheMagicFlute/clock/releases)
 
-License: [MIT License] (LICENSE)
+License: [MIT License](LICENSE)
 
 ## v1.0
 
